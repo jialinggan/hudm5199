@@ -9,7 +9,7 @@ In this assignment, you will:
 - screen shot your solutions into a document and submit thru Collab
 
 Here are the details:
-1) Start with the solutions from the Forest Fires assignment, found in Resources > Solutions > forest_fires_function_assignments_solns.ipynb
+1) Start with the solutions from the Forest Fires assignment, found in Files > forest_fires_function_assignments_solns.ipynb
 
 2) Copy all code into a script
 
@@ -33,6 +33,6 @@ Each item is worth 1 PT, for **TOTAL 10 POINTS**:
 
 5) Save the script and run from command line (e.g., using Anaconda Prompt)
 
-6) Screen shot the results, paste into document, and submit through Collab
+6) Screen shot the results, paste into document, and submit through Canvas
 
 Be sure that all solutions are in the submitted document.
